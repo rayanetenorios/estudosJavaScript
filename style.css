@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: rgb(44, 0, 31);
+    font-family: sans-serif;
+    color: white;
+}
